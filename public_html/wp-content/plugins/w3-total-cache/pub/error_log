@@ -1,0 +1,3 @@
+[02-Sep-2015 02:15:36 UTC] PHP Warning:  gzinflate(): data error in /home/kinivoco/public_html/wp-content/plugins/w3-total-cache/lib/W3/Minify.php on line 1145
+[02-Sep-2015 02:15:43 UTC] PHP Warning:  gzinflate(): data error in /home/kinivoco/public_html/wp-content/plugins/w3-total-cache/lib/W3/Minify.php on line 1145
+[02-Sep-2015 08:52:27 UTC] PHP Warning:  gzinflate(): data error in /home/kinivoco/public_html/wp-content/plugins/w3-total-cache/lib/W3/Minify.php on line 1145

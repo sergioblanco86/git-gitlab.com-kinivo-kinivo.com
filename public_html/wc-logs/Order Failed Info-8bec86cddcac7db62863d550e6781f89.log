@@ -1,0 +1,248 @@
+12-19-2014 @ 16:05:51 - Failed Order Info - Bad - 1
+12-19-2014 @ 16:12:56 - Failed Order Info - Bad - FBAOutboundServiceMWS_Model_CreateFulfillmentOrderRequest Object
+(
+    [_fields:protected] => Array
+        (
+            [SellerId] => Array
+                (
+                    [FieldValue] => A1YPEHRUFKDO42
+                    [FieldType] => string
+                )
+
+            [Marketplace] => Array
+                (
+                    [FieldValue] => 
+                    [FieldType] => string
+                )
+
+            [SellerFulfillmentOrderId] => Array
+                (
+                    [FieldValue] => 2014121916125540289
+                    [FieldType] => string
+                )
+
+            [DisplayableOrderId] => Array
+                (
+                    [FieldValue] => 40289
+                    [FieldType] => string
+                )
+
+            [DisplayableOrderDateTime] => Array
+                (
+                    [FieldValue] => 2014-12-12T22:52:00+0000
+                    [FieldType] => string
+                )
+
+            [DisplayableOrderComment] => Array
+                (
+                    [FieldValue] => Thank you for your order.
+                    [FieldType] => string
+                )
+
+            [ShippingSpeedCategory] => Array
+                (
+                    [FieldValue] => Standard
+                    [FieldType] => string
+                )
+
+            [DestinationAddress] => Array
+                (
+                    [FieldValue] => FBAOutboundServiceMWS_Model_Address Object
+                        (
+                            [_fields:protected] => Array
+                                (
+                                    [Name] => Array
+                                        (
+                                            [FieldValue] => Robert Allen
+                                            [FieldType] => string
+                                        )
+
+                                    [Line1] => Array
+                                        (
+                                            [FieldValue] => 12742 NE 132ND PL
+                                            [FieldType] => string
+                                        )
+
+                                    [Line2] => Array
+                                        (
+                                            [FieldValue] => 
+                                            [FieldType] => string
+                                        )
+
+                                    [Line3] => Array
+                                        (
+                                            [FieldValue] => 
+                                            [FieldType] => string
+                                        )
+
+                                    [DistrictOrCounty] => Array
+                                        (
+                                            [FieldValue] => US
+                                            [FieldType] => string
+                                        )
+
+                                    [City] => Array
+                                        (
+                                            [FieldValue] => Kirkland
+                                            [FieldType] => string
+                                        )
+
+                                    [StateOrProvinceCode] => Array
+                                        (
+                                            [FieldValue] => WA
+                                            [FieldType] => string
+                                        )
+
+                                    [CountryCode] => Array
+                                        (
+                                            [FieldValue] => US
+                                            [FieldType] => string
+                                        )
+
+                                    [PostalCode] => Array
+                                        (
+                                            [FieldValue] => 98034
+                                            [FieldType] => string
+                                        )
+
+                                    [PhoneNumber] => Array
+                                        (
+                                            [FieldValue] => 
+                                            [FieldType] => string
+                                        )
+
+                                )
+
+                        )
+
+                    [FieldType] => FBAOutboundServiceMWS_Model_Address
+                )
+
+            [FulfillmentPolicy] => Array
+                (
+                    [FieldValue] => FillAllAvailable
+                    [FieldType] => string
+                )
+
+            [FulfillmentMethod] => Array
+                (
+                    [FieldValue] => 
+                    [FieldType] => string
+                )
+
+            [ShipFromCountryCode] => Array
+                (
+                    [FieldValue] => 
+                    [FieldType] => string
+                )
+
+            [NotificationEmailList] => Array
+                (
+                    [FieldValue] => 
+                    [FieldType] => FBAOutboundServiceMWS_Model_NotificationEmailList
+                )
+
+            [CODSettings] => Array
+                (
+                    [FieldValue] => 
+                    [FieldType] => FBAOutboundServiceMWS_Model_CODSettings
+                )
+
+            [Items] => Array
+                (
+                    [FieldValue] => FBAOutboundServiceMWS_Model_CreateFulfillmentOrderItemList Object
+                        (
+                            [_fields:protected] => Array
+                                (
+                                    [member] => Array
+                                        (
+                                            [FieldValue] => Array
+                                                (
+                                                    [0] => FBAOutboundServiceMWS_Model_CreateFulfillmentOrderItem Object
+                                                        (
+                                                            [_fields:protected] => Array
+                                                                (
+                                                                    [SellerSKU] => Array
+                                                                        (
+                                                                            [FieldValue] => KIN-BTC450
+                                                                            [FieldType] => string
+                                                                        )
+
+                                                                    [SellerFulfillmentOrderItemId] => Array
+                                                                        (
+                                                                            [FieldValue] => 0
+                                                                            [FieldType] => string
+                                                                        )
+
+                                                                    [Quantity] => Array
+                                                                        (
+                                                                            [FieldValue] => 1
+                                                                            [FieldType] => int
+                                                                        )
+
+                                                                    [GiftMessage] => Array
+                                                                        (
+                                                                            [FieldValue] => 
+                                                                            [FieldType] => string
+                                                                        )
+
+                                                                    [DisplayableComment] => Array
+                                                                        (
+                                                                            [FieldValue] => 
+                                                                            [FieldType] => string
+                                                                        )
+
+                                                                    [FulfillmentNetworkSKU] => Array
+                                                                        (
+                                                                            [FieldValue] => 
+                                                                            [FieldType] => string
+                                                                        )
+
+                                                                    [OrderItemDisposition] => Array
+                                                                        (
+                                                                            [FieldValue] => 
+                                                                            [FieldType] => string
+                                                                        )
+
+                                                                    [PerUnitDeclaredValue] => Array
+                                                                        (
+                                                                            [FieldValue] => 
+                                                                            [FieldType] => FBAOutboundServiceMWS_Model_Currency
+                                                                        )
+
+                                                                    [PerUnitPrice] => Array
+                                                                        (
+                                                                            [FieldValue] => 
+                                                                            [FieldType] => FBAOutboundServiceMWS_Model_Currency
+                                                                        )
+
+                                                                    [PerUnitTax] => Array
+                                                                        (
+                                                                            [FieldValue] => 
+                                                                            [FieldType] => FBAOutboundServiceMWS_Model_Currency
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [FieldType] => Array
+                                                (
+                                                    [0] => FBAOutboundServiceMWS_Model_CreateFulfillmentOrderItem
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [FieldType] => FBAOutboundServiceMWS_Model_CreateFulfillmentOrderItemList
+                )
+
+        )
+
+)
+

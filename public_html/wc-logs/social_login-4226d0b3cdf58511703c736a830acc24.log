@@ -1,0 +1,151 @@
+12-16-2014 @ 20:24:02 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [code] => access_denied
+            [message] => User denied access.
+            [raw] => Array
+                (
+                    [denied] => d0PROvXMHCnfVZlMvEeRNsh49JHleieZ
+                )
+
+            [provider] => twitter
+        )
+
+    [timestamp] => 2014-12-16T20:24:02+00:00
+)
+
+02-06-2015 @ 00:52:43 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [provider] => facebook
+            [code] => 200
+            [message] => Permissions error
+            [raw] => Array
+                (
+                    [error_code] => 200
+                    [error_description] => Permissions error
+                    [error_reason] => user_denied
+                )
+
+        )
+
+    [timestamp] => 2015-02-06T00:52:42+00:00
+)
+
+08-19-2015 @ 04:57:14 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [provider] => facebook
+            [code] => access_token_error
+            [message] => Failed when attempting to obtain access token
+            [raw] => {"error":{"message":"This authorization code has been used.","type":"OAuthException","code":100}}
+        )
+
+    [timestamp] => 2015-08-19T04:57:13+00:00
+)
+
+08-21-2015 @ 20:50:00 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [code] => access_denied
+            [message] => User denied access.
+            [raw] => Array
+                (
+                    [denied] => Z68BrwAAAAAAdMiIAAABTzZts9Y
+                )
+
+            [provider] => twitter
+        )
+
+    [timestamp] => 2015-08-21T13:20:28+00:00
+)
+
+08-29-2015 @ 01:58:09 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [code] => access_denied
+            [message] => User denied access.
+            [raw] => Array
+                (
+                    [denied] => Z68BrwAAAAAAdMiIAAABTzZts9Y
+                )
+
+            [provider] => twitter
+        )
+
+    [timestamp] => 2015-08-28T23:30:27+00:00
+)
+
+08-31-2015 @ 12:19:27 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [code] => access_denied
+            [message] => User denied access.
+            [raw] => Array
+                (
+                    [denied] => Bg1y8gAAAAAAdMiIAAABTw2Ign0
+                )
+
+            [provider] => twitter
+        )
+
+    [timestamp] => 2015-08-31T12:07:20+00:00
+)
+
+09-23-2015 @ 06:17:25 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [code] => access_denied
+            [message] => User denied access.
+            [raw] => Array
+                (
+                    [denied] => Z68BrwAAAAAAdMiIAAABTzZts9Y
+                )
+
+            [provider] => twitter
+        )
+
+    [timestamp] => 2015-09-23T06:12:55+00:00
+)
+
+10-08-2015 @ 14:08:23 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [code] => access_denied
+            [message] => User denied access.
+            [raw] => Array
+                (
+                    [denied] => Bg1y8gAAAAAAdMiIAAABTw2Ign0
+                )
+
+            [provider] => twitter
+        )
+
+    [timestamp] => 2015-10-08T14:03:27+00:00
+)
+
+10-25-2015 @ 00:10:10 - Error: Response error, Response: Array
+(
+    [error] => Array
+        (
+            [code] => access_denied
+            [message] => User denied access.
+            [raw] => Array
+                (
+                    [denied] => Z68BrwAAAAAAdMiIAAABTzZts9Y
+                )
+
+            [provider] => twitter
+        )
+
+    [timestamp] => 2015-10-25T00:01:41+00:00
+)
+
